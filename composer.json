@@ -21,6 +21,6 @@
         "providers": [
             "Mjo\\Loader\\LoadServiceProvider"
         ],
-    }
-},
+        }
+    },
 }
