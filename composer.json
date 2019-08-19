@@ -1,0 +1,19 @@
+{
+    "name": "mjo/loader",
+    "description": "To learn more about laravel package and management",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "manu.joseph",
+            "email": "manu.joseph@cubettech.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Mjo\\Loader\\": "src/"
+        }
+    }
+}
