@@ -15,5 +15,12 @@
         "psr-4": {
             "Mjo\\Loader\\": "src/"
         }
+    },
+    "extra": {
+    "laravel": {
+        "providers": [
+            "Mjo\\Loader\\LoadServiceProvider"
+        ],
     }
+},
 }
