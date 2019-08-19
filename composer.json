@@ -17,10 +17,10 @@
         }
     },
     "extra": {
-    "laravel": {
-        "providers": [
-            "Mjo\\Loader\\LoadServiceProvider"
-        ],
+        "laravel": {
+            "providers": [
+                "Mjo\\Loader\\LoadServiceProvider"
+            ]
         }
-    },
+    }
 }
